@@ -218,7 +218,7 @@ agent-teams-playbook/
 ```yaml
 ---
 name: agent-teams-playbook
-version: "4.5"
+version: "4.6"
 context: fork    # 添加这行启用隔离模式
 ---
 ```
@@ -247,6 +247,6 @@ context: fork    # 添加这行启用隔离模式
 
 ---
 
-**版本**：V4.5
-**最后更新**：2026-02-14
-**维护者**：老金
+**版本**：V4.6
+**最后更新**：2026-03-06
+**维护者**：rebecca554owen

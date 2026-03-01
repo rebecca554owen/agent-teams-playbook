@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 
 # agent-teams-playbook Installation Script
-# Version: V4.5
+# Version: V4.6
 # Description: Installs the agent-teams-playbook Claude Code Skill
 # Note: "swarm/蜂群" is generic; Claude Code's official concept is "Agent Teams"
 
 set -e
 
-VERSION="V4.5"
+VERSION="V4.6"
 SKILL_NAME="agent-teams-playbook"
-GITHUB_REPO="KimYx0207/agent-teams-playbook"
+GITHUB_REPO="rebecca554owen/agent-teams-playbook"
 GITHUB_BRANCH="main"
 INSTALL_DIR="${HOME}/.claude/skills/${SKILL_NAME}"
 
